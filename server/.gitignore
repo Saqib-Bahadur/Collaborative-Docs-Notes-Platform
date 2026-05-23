@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# package lock file (optional)
+package-lock.json
+
+# logs
+logs
+*.log
+
+# OS files
+.DS_Store
